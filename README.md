@@ -9,7 +9,7 @@ Repositório do Backend: https://github.com/hsilvioviana/ReadList
 ### Tecnologias
  - .NET 6
  - DDD + MVC
- - Entity FrameWork 6
+ - Entity FrameWork Core 6
  - PostgreSQL
  - AutoMapper
  - FluentValidation
