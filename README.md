@@ -13,3 +13,4 @@ Repositório do Backend: https://github.com/hsilvioviana/ReadList
  - PostgreSQL
  - AutoMapper
  - FluentValidation
+ - Testes Unitários com xUnit
