@@ -1,6 +1,6 @@
 # Portfólio
 
-## ReadList (Em Desenvolvimento)
+## ReadList
 
 Repositório do Backend: https://github.com/hsilvioviana/ReadList
 
